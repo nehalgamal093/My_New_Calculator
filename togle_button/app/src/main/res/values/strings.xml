@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">togle_button</string>
+    <string name="wifi_off">Wifi off</string>
+    <string name="wifi_on">Wifi on</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">radioButton</string>
+    <string name="meal">Pick your favorite Meal</string>
+    <string name="pizza">Pizza</string>
+    <string name="negressco">Negressco</string>
+    <string name="crepe">Crepe</string>
+</resources>
